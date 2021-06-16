@@ -1,5 +1,7 @@
 # Mercer Systems API
 
+#### JDK: AdoptOpenJDK v11.0.11-9
+
 To create Docker image run 
 ```
 docker build -t mercer-systems/mercer-api .
